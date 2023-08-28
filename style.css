@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: #e1f1f1;
+}
+.pale {
+    color: #996666;
+}
+.black {
+    color: #1d1d1f;
+    font-weight: bold;
+}
+.blue {
+    color: blue;
+}
